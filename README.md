@@ -106,10 +106,6 @@ Note: Make sure to replace `your_password` with your actual database password. N
 
 The API documentation is available at `/api-docs` when running the server in development mode.
 
-## License
-
-This project is licensed under the ISC License.
-
 ## Authors
 
 - Diksha Patkar
